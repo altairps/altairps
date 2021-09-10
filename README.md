@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @altairps
+- 👀 I’m interested in DESIGN, UX/UI and CMS
+- 🌱 I’m currently learning LEARN HOW TO USE GIT and GITHUB...
